@@ -1,0 +1,37 @@
+# Unreal Engine projekt .gitignore
+
+# Binárisok és buildelt fájlok
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.suo
+*.user
+*.userprefs
+*.sln
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# Ideiglenes fájlok
+*.log
+*.tlog
+*.vspscc
+*.pidb
+*.scc
+
+# Visual Studio
+.vscode/
+.vs/
+
+# Platform specifikus cache
+*.pdb
+*.obj
+*.exe
+*.dll
+*.app
+*.dSYM/
+
+# Build és Config cache
+Build/
