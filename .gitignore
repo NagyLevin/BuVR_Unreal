@@ -35,3 +35,15 @@ Saved/
 
 # Build és Config cache
 Build/
+
+#Downloaded content
+/Content/AncientTreasures/**
+/Content/Construction_VOL2/**
+/Content/KoreanRailroadMika3-161/**
+/Content/KT_SmartMat_Vol_1/**
+/Content/LevelPrototyping/**
+/Content/Military_Free/**
+/Content/OldWest/**
+/Content/ParagonKallari/**
+/Content/PresidentialCoach/**
+/Content/Weapons/**
